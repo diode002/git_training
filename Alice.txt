@@ -1,4 +1,7 @@
 Hi! I'm Alice. Changed By Slave
 CHnaged in master
+also on github
 Changed Alice in branch
 some more chnages for rebase
+
+changes on git hub
